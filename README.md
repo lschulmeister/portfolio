@@ -7,11 +7,12 @@
 # Lucas Schulmeister
 <sub>*Arquiteto de dados* na área financeira</sub>
 
-Como profissional de dados, busco incorporar habilidades de arquitetura de dados e analíticas, para ajudar as empresas a compreenderem a sua realidade, auxiliando em uma tomada de decisão mais assertiva. Depois de passar os últimos anos desenvolvendo soluções de arquitetura de dados, estou estudando engenharia de dados.
+Como profissional de dados, busco criar e ajudar no desenvolvimento da infraestrutura que dá suporte ao time de dados.
+Possibilitando que as empresas possam a compreender a sua realidade baseada em fatos, auxiliando em uma tomada de decisão mais assertiva. Depois de passar os últimos anos desenvolvendo soluções de arquitetura de dados, estou estudando engenharia de dados.
 
 Passei por diversas áreas dentro da tecnologia, inclusive sendo gerente de TI. Mas foi trabalhando com dados que me senti realizado.
 
-**Background in:** Airflow, Python, StreamSets, Pentaho, ETL.
+**Background in:** Airflow, Python, StreamSets, Pentaho, ETL, Docker, Tableau.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasschulmeister)
