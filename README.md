@@ -8,7 +8,7 @@
 <sub>*Arquiteto de dados* na área financeira</sub>
 
 Como profissional de dados, busco criar e ajudar no desenvolvimento da infraestrutura que dá suporte ao time de dados.
-Possibilitando que as empresas possam a compreender a sua realidade baseada em fatos, auxiliando em uma tomada de decisão mais assertiva. Depois de passar os últimos anos desenvolvendo soluções de arquitetura de dados, estou estudando engenharia de dados.
+Possibilitando que as empresas possam compreender a sua realidade baseada em fatos, auxiliando em uma tomada de decisão mais assertiva. Depois de passar os últimos anos desenvolvendo soluções de arquitetura de dados, estou estudando engenharia de dados.
 
 Passei por diversas áreas dentro da tecnologia, inclusive sendo gerente de TI. Mas foi trabalhando com dados que me senti realizado.
 
