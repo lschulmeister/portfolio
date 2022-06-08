@@ -9,7 +9,25 @@
 
 Como profissional de dados, busco criar e ajudar no desenvolvimento da infraestrutura que dá suporte ao time de dados, possibilitando que as empresas compreendam a sua realidade baseada em fatos, além de auxiliar em uma tomada de decisão mais assertiva. Passei por diversas áreas dentro da tecnologia, inclusive sendo gerente de TI. Mas foi trabalhando com dados que me senti realizado.
 
-**Background in:** Airflow, Python, StreamSets, Pentaho (PDI,PRD,PSW, BI Server), ETL/ELT, SQL, CDC, Docker, Git, API Rest, Linux, Tableau, QlikView e PowerBI.
+**Background in:** 
+  - Airflow
+  - Python
+  - AWS EC2, EMR, S3, Kinesis, Glue, Athena, Redshift, DynamoDB
+  - Azure Data Factory
+  - PySpark
+  - Docker
+  - Jenkins
+  - SQL
+  - MongoDB
+  - StreamSets
+  - CDC
+  - Pentaho PDI,PRD,PSW, BI Server
+  - Git
+  - API Rest
+  - Linux
+  - Tableau
+  - QlikView
+  - PowerBI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasschulmeister)
