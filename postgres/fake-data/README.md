@@ -22,7 +22,7 @@ Precisamos conectar ao postgres para criar o usuário, a base e a permisão para
 
 psql -U postgres
 
-CREATE USER user_erp WITH ENCRYPTED PASSWORD '3rP890afg';
+CREATE USER user_erp WITH ENCRYPTED PASSWORD 'senha';
 
 CREATE DATABASE db_erp;
 
@@ -128,4 +128,10 @@ Resetar a base de dados.
 
 ~~~ cmd
 python3 create.py reset
+~~~
+
+### Visualizar o faturamento
+
+~~~ sql
+SELECT * FROM vw_invoicing
 ~~~
