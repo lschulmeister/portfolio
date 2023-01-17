@@ -1,6 +1,6 @@
 -- Database: db_erp
 -- Author:
-CREATE USER user_erp WITH ENCRYPTED PASSWORD '3rP890afg';
+CREATE USER user_erp WITH ENCRYPTED PASSWORD 'senha';
 
 
 CREATE DATABASE db_erp

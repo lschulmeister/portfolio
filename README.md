@@ -5,7 +5,7 @@
 </p>
 
 # Lucas Schulmeister
-<sub>*Arquiteto de dados* na área financeira</sub>
+<sub>*Engenheiro de dados*</sub>
 
 Como profissional de dados, busco criar e ajudar no desenvolvimento da infraestrutura que dá suporte ao time de dados, possibilitando que as empresas compreendam a sua realidade baseada em fatos, além de auxiliar em uma tomada de decisão mais assertiva. Passei por diversas áreas dentro da tecnologia, inclusive sendo gerente de TI. Mas foi trabalhando com dados que me senti realizado.
 
@@ -13,17 +13,10 @@ Como profissional de dados, busco criar e ajudar no desenvolvimento da infraestr
   - Airflow
   - Python
   - AWS 
-    - EC2
-    - EMR
-    - S3
-    - Kinesis
-    - Glue
-    - Athena
-    - Redshift
-    - DynamoDB
+    - EC2 \ EMR \ S3 \ Kinesis \ Glue \ Athena \ Redshift \ DynamoDB \ Secrets Manager
   - Azure
-    - Data Factory
-    - DevOps
+    - Data Factory \ Blob Storage \ Key Vault \ DevOps
+  - Databricks
   - PySpark
   - Docker
   - Jenkins
@@ -31,13 +24,11 @@ Como profissional de dados, busco criar e ajudar no desenvolvimento da infraestr
   - MongoDB
   - StreamSets
   - CDC
-  - Pentaho PDI,PRD,PSW, BI Server
+  - Pentaho 
+    - PDI \ PRD \ PSW \ BI Server
   - Git
   - API Rest
   - Linux
-  - Tableau
-  - QlikView
-  - PowerBI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasschulmeister)
