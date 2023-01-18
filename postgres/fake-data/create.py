@@ -15,8 +15,7 @@ if v_m == 'database':
         v_isql = open("sql/{}.sql".format(s), encoding="UTF-8").read()
 
         gen.pg_insert(v_c, v_isql)
-
-if v_m == 'fake_data':
+elif v_m == 'fake_data':
     v_n = ''+sys.argv[2]+''
     v_l = ''+sys.argv[3]+''
     v_t = ''+sys.argv[4]+''
