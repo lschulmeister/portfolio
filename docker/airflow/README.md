@@ -8,6 +8,13 @@ apache-airflow-providers-apache-spark |
 apache-airflow-providers-oracle |
 apache-airflow-providers-trino
 
+Gerar fernet_key e adicionar no docker-compose
+https://airflow.apache.org/docs/apache-airflow/stable/security/secrets/fernet.html
+
+~~~cmd
+AIRFLOW__CORE__FERNET_KEY: 'adicionar_fernet_key_aqui'
+~~~
+
 ### Imagem
 
 ~~~cmd
