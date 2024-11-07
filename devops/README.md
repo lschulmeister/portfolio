@@ -1,3 +1,0 @@
-# Semana DevOps
-
-KubeDev
