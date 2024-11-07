@@ -15,9 +15,10 @@ Como profissional de dados, busco criar e ajudar no desenvolvimento da infraestr
   - AWS 
     - EC2 \ EMR \ S3 \ Kinesis \ Glue \ Athena \ Redshift \ DynamoDB \ Secrets Manager
   - Azure
-    - Data Factory \ Blob Storage \ Key Vault \ DevOps
+    - Data Factory \ Blob Storage \ Key Vault \ DevOps \ Event Hubs
   - Databricks
   - PySpark
+  - Snowflake
   - Docker
   - Jenkins
   - SQL
